@@ -56,7 +56,6 @@
         <dependency>
             <groupId>org.flywaydb</groupId>
             <artifactId>flyway-core</artifactId>
-            <version>11.10.4</version>
         </dependency>
         <dependency>
             <groupId>org.flywaydb</groupId>
@@ -66,7 +65,6 @@
         <dependency>
             <artifactId>flyway-mysql</artifactId>
             <groupId>org.flywaydb</groupId>
-            <version>11.10.4</version>
         </dependency>
         <dependency>
             <artifactId>lombok</artifactId>
