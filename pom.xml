@@ -56,15 +56,17 @@
         <dependency>
             <groupId>org.flywaydb</groupId>
             <artifactId>flyway-core</artifactId>
+            <version>11.10.4</version>
         </dependency>
         <dependency>
             <groupId>org.flywaydb</groupId>
             <artifactId>flyway-maven-plugin</artifactId>
-            <version>11.7.2</version>
+            <version>11.10.4</version>
         </dependency>
         <dependency>
             <artifactId>flyway-mysql</artifactId>
             <groupId>org.flywaydb</groupId>
+            <version>11.10.4</version>
         </dependency>
         <dependency>
             <artifactId>lombok</artifactId>
